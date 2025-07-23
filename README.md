@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;IT+Enthusiast;Clean+Architecture+Expert" alt="Typing SVG" />
 
+![Snake animation](https://github.com/BHieeuss/BHieeuss/blob/output/github-contribution-grid-snake.svg)
+
 [![GitHub followers](https://img.shields.io/github/followers/BHieeuss?label=Followers&style=social)](https://github.com/BHieeuss)
 [![Profile Views](https://komarev.com/ghpvc/?username=BHieeuss&color=blue&style=flat)](https://github.com/BHieeuss)
 
@@ -138,47 +140,7 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BHieeuss&theme=react-dark&hide_border=true)](https://github.com/BHieeuss)
-
-</div>
-
----
-
-## 🎓 Education & Experience
-
-<div align="center">
-
-```mermaid
-timeline
-    title My IT Journey
-    2021 : Started IT Studies at Tra Vinh University
-    2023 : Developed multiple academic projects
-    2024 : Internship at 365 EJSC Company
-         : Real-world project development
-    2025 : Graduated as IT Engineer
-         : Expertise in Clean Architecture
-```
-
-</div>
-
-### 🏫 Education
-- **🎓 Đại Học Trà Vinh** - Công Nghệ Thông Tin (2021-2025)
-- **📍 Quê quán**: Vĩnh Long
-- **📅 Sinh năm**: 16/11/2003
-
-### 💼 Experience
-- **🏢 365 EJSC** - Software Engineer Intern (2024-2025)
-  - 1 năm hoạt động dự án thực tế
-  - 2 tháng thực tập chính thức
-  - Phát triển API với Clean Architecture
-
----
-
-## 📞 Contact Me
+##  Contact Me
 
 <div align="center">
 
@@ -196,8 +158,6 @@ timeline
 ### 🌟 "Code is poetry, and every bug is a learning opportunity"
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-![Snake animation](https://github.com/BHieeuss/BHieeuss/blob/output/github-contribution-grid-snake.svg)
 
 **💖 Thanks for visiting my profile!**
 
