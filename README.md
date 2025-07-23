@@ -2,10 +2,6 @@
 
 <p align="center">🔥 Kẻ phàm trần từng bước tu luyện để đột phá cảnh giới trong giới Công Nghệ Thông Tin 🔥</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&height=80&lines=🧙+Kĩ+Sư+IT+%7C+Fullstack+Developer;☁️+ASP.NET+Core+%7C+Angular+%7C+Docker+Mastery;🔥+Tu+tiên+qua+API+và+Clean+Architecture" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧙‍♂️ Giới thiệu
