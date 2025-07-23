@@ -1,235 +1,204 @@
-<h1 align="center">⚡️ Trần Bá Hiếu – IT Tu Tiên Nhân ⚡️</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tu%20Ti%C3%AAn%20C%E1%BB%99ng%20Ngh%E1%BB%87&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</p>
-
----
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tu+Ti%C3%AAn+Nh%C3%A2n;%F0%9F%8C%8C+V%C3%A0o+h%C3%A0nh+tr%C3%ACnh+kh%C3%A1m+ph%C3%A1+%C4%91%E1%BA%A1i+%C4%91%E1%BA%A1o...)](https://git.io/typing-svg)
-  
-</div>
 
-## 🧙‍♂️ Giới thiệu
+# 👋 Xin chào, tôi là Trần Bá Hiếu
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;IT+Enthusiast;Clean+Architecture+Expert" alt="Typing SVG" />
 
-**� Thông tin Tu Tiên 🔥**
+[![GitHub followers](https://img.shields.io/github/followers/BHieeuss?label=Followers&style=social)](https://github.com/BHieeuss)
+[![Profile Views](https://komarev.com/ghpvc/?username=BHieeuss&color=blue&style=flat)](https://github.com/BHieeuss)
 
-�🐣 **Tên pháp danh:** Trần Bá Hiếu  
-📍 **Nơi khởi tu:** Vĩnh Long  
-🏛️ **Môn phái:** Đại học Trà Vinh (2021–2025)  
-⚔️ **Môn pháp:** C#, ASP.NET Core, Angular, Docker, SQL  
-📜 **Tu vi hiện tại:** Senior Apprentice Developer
-
-</td>
-<td align="center" width="50%">
-
-**⚡ Linh Lực Hiện Tại ⚡**
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BHieeuss&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FFD93D&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&sideLabels=00D9FF&dates=70A5FD" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%94%AE+Tu+luy%E1%BB%87n+k%E1%BB%B3+c%C3%B4ng+qua+c%C3%A1c+d%E1%BB%B1+%C3%A1n;%E2%9A%94%EF%B8%8F+T%E1%BB%AB+ph%C3%A0m+nh%C3%A2n+%C4%91%E1%BA%BFn+cao+th%E1%BB%A7...;%F0%9F%9A%80+Breakthrough+Projects+Mastery!)](https://git.io/typing-svg)
-  
-</div>
+## 🚀 About Me
 
-## 🔮 Tu luyện kỳ công qua các dự án
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div align="center">
-
-| 🌟 **Giai đoạn Tu Luyện** |                   🎯 **Dự án Đột Phá**                    | 💪 **Độ Khó** |   ⚡ **Status**    |
-| :-----------------------: | :-------------------------------------------------------: | :-----------: | :----------------: |
-|    🐉 **Kỳ nhập môn**     | Công cụ so sánh độ tương đồng văn bản: Cosine & Matthanan |     ⭐⭐      |   ✅ Hoàn thành    |
-|     ⚔️ **Kỳ cơ bản**      |           Website bán sản phẩm Apple, máy tính            |    ⭐⭐⭐     |   ✅ Hoàn thành    |
-|    👁️ **Kỳ tinh nhãn**    |     Hệ thống nhận diện khuôn mặt – điểm danh học sinh     |   ⭐⭐⭐⭐    |   ✅ Hoàn thành    |
-|    💼 **Kỳ hồng trần**    |         Website bất động sản & việc làm Nhật Bản          |  ⭐⭐⭐⭐⭐   | 🔥 Đang triển khai |
-
-</div>
+- 🎓 **Kỹ Sư Công Nghệ Thông Tin** tại Đại Học Trà Vinh
+- 💼 **Thực tập sinh** tại **365 EJSC** - Công ty Cổ phần Hệ sinh thái 365
+- 🌱 Chuyên sâu về **ASP.NET Core** và **Clean Architecture**
+- 💻 Đam mê phát triển **Full Stack Web Applications**
+- 🎯 Mục tiêu: Trở thành **Senior Software Engineer**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" />
+
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHieeuss&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHieeuss&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Ph%C3%A1p+b%E1%BA%A3o+tu+luy%E1%BB%87n;%E2%9A%A1+Arsenal+of+Power!)](https://git.io/typing-svg)
-  
-</div>
-
-## 🛠️ Pháp bảo tu luyện
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### ⚔️ **Vũ Khí Chính** ⚔️
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,angular,typescript&theme=dark" />
+### Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🔮 **Pháp Thuật Hỗ Trợ** 🔮
+### Database & DevOps
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" />
+### Tools & Others
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare-filmora&logoColor=white)
 
-### 🏺 **Bí Kíp Lưu Trữ** 🏺
-
-<img src="https://skillicons.dev/icons?i=mysql,php,docker&theme=dark" />
-
-### 🌟 **Công Cụ Tu Luyện** 🌟
-
-<img src="https://skillicons.dev/icons?i=github,git,visualstudio,vscode&theme=dark" />
-
-</div>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHieeuss&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FFD700" />
 </div>
 
 ---
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+Tu+vi+GitHub;%E2%9C%A8+Power+Level!)](https://git.io/typing-svg)
-  
-</div>
-
-## 📊 Tu vi GitHub
+## 🏆 Featured Projects
 
 <div align="center">
+
+### 🎯 Academic Projects
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BHieeuss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FFD700&ring_color=FF6B6B" />
+#### 📝 Text Similarity Tool
+- **Mô tả**: Công cụ so sánh tương đồng văn bản
+- **Công nghệ**: Cosine Similarity, Matthanan Algorithm
+- **Ứng dụng**: Phát hiện đạo văn, phân tích nội dung
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHieeuss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+#### 🍎 Apple Store Website
+- **Mô tả**: Website bán sản phẩm Apple
+- **Công nghệ**: HTML, CSS, JavaScript, Bootstrap
+- **Tính năng**: Responsive Design, Shopping Cart
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💻 Computer Store Website
+- **Mô tả**: Website kinh doanh máy vi tính
+- **Công nghệ**: ASP.NET MVC, SQL Server
+- **Tính năng**: Quản lý sản phẩm, Đặt hàng online
+
+</td>
+<td width="50%">
+
+#### 👤 Face Recognition System
+- **Mô tả**: Hệ thống nhận diện khuôn mặt điểm danh
+- **Công nghệ**: OpenCV, Machine Learning
+- **Ứng dụng**: Điểm danh học sinh/sinh viên
 
 </td>
 </tr>
 </table>
 
-### ⚡ **Linh Lực Hoạt Động** ⚡
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHieeuss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFD700" />
-
-### 🏆 **Thành Tựu Tu Luyện** 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=BHieeuss&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=%F0%9F%90%89+Linh+kh%C3%AD+commit;%F0%9F%94%A5+Contribution+Snake+Magic!)](https://git.io/typing-svg)
-  
-</div>
-
-## 🐉 Linh khí commit – Đồ hình tiên đạo
-
-<div align="center">
-  
-  ### ⚡ **Phép Thuật Contribution** ⚡
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHieeuss&bg_color=0d1117&color=58a6ff&line=f85d7f&point=ffa657&area=true&hide_border=true" />
-  
-  ### 🌟 **Ma Trận Linh Lực** 🌟
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BHieeuss&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FFD700&layout=compact" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%F0%9F%94%97+Truy%E1%BB%81n+t%E1%BB%91ng+ph%C3%A1p+tr%E1%BA%ADn;%E2%9C%89%EF%B8%8F+Contact+Portals!)](https://git.io/typing-svg)
-  
-</div>
-
-## 🔗 Truyền tống pháp trận
-
-<div align="center">
-
-### 🌟 **Kênh Liên Lạc Tu Tiên** 🌟
+### 💼 Professional Projects
 
 <table>
 <tr>
-<td align="center">
+<td width="50%">
 
-[![Gmail](https://img.shields.io/badge/📧_Bí_Thư_Truyền_Thư-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:tbh.11203@gmail.com)
-
-</td>
-<td align="center">
-
-[![Facebook](https://img.shields.io/badge/👥_Hội_Đồng_Tu_Tiên-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/bhieuu.203/)
+#### 🏢 Seiki Job Portal (世紀)
+- **Mô tả**: Website việc làm Nhật Bản
+- **Công nghệ**: ASP.NET Core, Clean Architecture
+- **Vai trò**: Backend Developer
 
 </td>
-<td align="center">
+<td width="50%">
 
-[![Github](https://img.shields.io/badge/⚔️_Kho_Tàng_Ma_Pháp-Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/BHieeuss)
+#### 🏘️ Ngọc Vân Phương Real Estate
+- **Mô tả**: Website bất động sản Vĩnh Long
+- **Công nghệ**: ASP.NET Core, RESTful API
+- **Vai trò**: Full Stack Developer
 
 </td>
 </tr>
 </table>
 
-### ⚡ **Tốc Độ Phản Hồi** ⚡
+</div>
 
-<img src="https://img.shields.io/badge/Response_Time-Lightning_Fast_⚡-FFD700?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" />
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BHieeuss&theme=react-dark&hide_border=true)](https://github.com/BHieeuss)
+
+</div>
+
+---
+
+## 🎓 Education & Experience
+
+<div align="center">
+
+```mermaid
+timeline
+    title My IT Journey
+    2021 : Started IT Studies at Tra Vinh University
+    2023 : Developed multiple academic projects
+    2024 : Internship at 365 EJSC Company
+         : Real-world project development
+    2025 : Graduated as IT Engineer
+         : Expertise in Clean Architecture
+```
+
+</div>
+
+### 🏫 Education
+- **🎓 Đại Học Trà Vinh** - Công Nghệ Thông Tin (2021-2025)
+- **📍 Quê quán**: Vĩnh Long
+- **📅 Sinh năm**: 16/11/2003
+
+### 💼 Experience
+- **🏢 365 EJSC** - Software Engineer Intern (2024-2025)
+  - 1 năm hoạt động dự án thực tế
+  - 2 tháng thực tập chính thức
+  - Phát triển API với Clean Architecture
+
+---
+
+## 📞 Contact Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tbh.11203@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bhieuu.203/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHieeuss)
+[![Phone](https://img.shields.io/badge/Phone-0379932119-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0379932119)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=9932CC&center=true&vCenter=true&width=400&lines=%F0%9F%8E%B5+Nh%E1%BA%A1c+tu+luy%E1%BB%87n;%F0%9F%8E%A7+Meditation+Music!)](https://git.io/typing-svg)
-  
-</div>
 
-## 🎵 Nhạc tu luyện
+### 🌟 "Code is poetry, and every bug is a learning opportunity"
 
-<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-### 🎶 **Âm Thanh Thiền Định** 🎶
+![Snake animation](https://github.com/BHieeuss/BHieeuss/blob/output/github-contribution-grid-snake.svg)
 
-[![Current Track](https://img.shields.io/badge/🎵_Now_Playing-80%20Proof%20by%20Eric%20Reprid-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://www.youtube.com/watch?v=mvBTw45D6Ns)
+**💖 Thanks for visiting my profile!**
 
-### 🔊 **Playlist Tu Luyện** 🔊
-
-<img src="https://img.shields.io/badge/Lofi_Hip_Hop-🎧_Coding_Vibes-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Synthwave-🌃_Cyberpunk_Mode-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Classical-🎼_Focus_Mode-FFD700?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ⚡ **Kết Thúc Hành Trình Tu Luyện** ⚡
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+C%E1%BA%A3m+%C6%A1n+b%E1%BA%A1n+%C4%91%C3%A3+gh%C3%A9+th%C4%83m!;%E2%9A%A1+May+m%E1%BA%AFn+tr%C3%AAn+con+%C4%91%C6%B0%E1%BB%9Dng+coding!;%F0%9F%9A%80+Happy+coding%2C+fellow+developer!)](https://git.io/typing-svg)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:00D9FF,100:FFD700&height=120&section=footer&text=Tu%20Ti%C3%AAn%20IT%20Journey&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
-  
 </div>
