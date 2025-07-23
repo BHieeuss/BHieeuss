@@ -151,10 +151,6 @@
   
   ### ⚡ **Phép Thuật Contribution** ⚡
   
-  <!-- Snake Animation từ Platane (backup working version) -->
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  
-  <!-- Hoặc sử dụng contribution graph khác -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHieeuss&bg_color=0d1117&color=58a6ff&line=f85d7f&point=ffa657&area=true&hide_border=true" />
   
   ### 🌟 **Ma Trận Linh Lực** 🌟
