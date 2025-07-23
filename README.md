@@ -1,10 +1,6 @@
 <h1 align="center">⚡️ Trần Bá Hiếu – IT Tu Tiên Nhân ⚡️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%94%A5+K%E1%BA%BB+ph%C3%A0m+tr%E1%BA%A7n+t%E1%BB%AB ng+b%C6%B0%E1%BB%9Bc+tu+luy%E1%BB%87n;%F0%9F%9A%80+%C4%90%E1%BB%99t+ph%C3%A1+c%E1%BA%A3nh+gi%E1%BB%9Bi+trong+gi%E1%BB%9Bi+IT;%E2%9A%A1%EF%B8%8F+Coding+is+my+cultivation!" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tu%20Ti%C3%AAn%20C%E1%BB%99ng%20Ngh%E1%BB%87&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
@@ -154,11 +150,12 @@
 <div align="center">
   
   ### ⚡ **Phép Thuật Contribution** ⚡
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BHieeuss/BHieeuss/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BHieeuss/BHieeuss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BHieeuss/BHieeuss/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+  <!-- Snake Animation từ Platane (backup working version) -->
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
+  <!-- Hoặc sử dụng contribution graph khác -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHieeuss&bg_color=0d1117&color=58a6ff&line=f85d7f&point=ffa657&area=true&hide_border=true" />
   
   ### 🌟 **Ma Trận Linh Lực** 🌟
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BHieeuss&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FFD700&layout=compact" />
